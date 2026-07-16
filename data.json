@@ -336,6 +336,17 @@
       "drm": {
         "type": "clearkey",
         "key": "86edec9e3b7d4042a4d4a1ca personally14f847ee:9def4315f0004019a3705bcb3cf30ca3"
+      },
+      {
+      "channel_number": 29,
+      "name": "Sangeet Bangla",
+      "id": "Sangeet-Bangla",
+      "group": "Music",
+      "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png",
+      "stream_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbangla2/default/manifest.mpd?|drmScheme=clearkey",
+      "drm": {
+        "type": "clearkey",
+        "key": "55ef53e7216640ea862b98c3864000f7:11c2726ab75d4e6aaf54e0e09b5ae593"
       }
     }
   ]
