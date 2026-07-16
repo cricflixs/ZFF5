@@ -336,7 +336,8 @@
       "drm": {
         "type": "clearkey",
         "key": "86edec9e3b7d4042a4d4a1ca personally14f847ee:9def4315f0004019a3705bcb3cf30ca3"
-      },
+      }
+    },
       {
       "channel_number": 29,
       "name": "Sangeet Bangla",
